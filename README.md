@@ -16,6 +16,18 @@
  <body>
   <h2>CatPhotoApp</h2>
  <main>
+   <!-- <form action="https://freecatphotoapp.com/submit-cat-photo">
+    <input type="text" placeholder="cat photo URL" required>
+    <button type="submit">Submit</button> 
+ -->
+<label> 
+  <input type="radio" name="indoor-outdoor">Indoor 
+</label>
+<label> 
+  <input type="radio" name="indoor-outdoor">Outdoor 
+</label>
+  </form>
+   
    <p>Click here to view more <a href="#">cat photos</a>.</p>
 
    <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
